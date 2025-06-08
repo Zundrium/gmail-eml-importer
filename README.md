@@ -20,7 +20,7 @@ Steps in order to use the importer:
 
 # 1. The importer itself
 1. Clone the repo with  `git clone git@github.com/zundrium/gmail-eml-importer.git`.
-2. Create a `python -m venv .venv`.
+2. Create a virtual environment with `python -m venv .venv`.
 3. Activate the virtual environment with `source .venv/bin/activate` on Linux or `.\.venv\Scripts\Activate.ps1` on Windows.
 4. Install the packages with `pip install -r requirements.txt`.
 
